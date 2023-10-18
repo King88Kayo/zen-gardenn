@@ -1,2 +1,2 @@
-# zen-gardenn
+# zen-garden
 Bonus stuff
